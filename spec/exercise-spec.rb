@@ -10,7 +10,7 @@ end
 describe "Addition" do
   context "when calling addition" do
     it "should add these integers together" do
-      x = 1
+      x = 17
       y = 4 
       z = x + y
       z.should eq 21
