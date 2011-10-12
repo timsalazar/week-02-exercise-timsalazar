@@ -13,7 +13,7 @@ describe "Addition" do
       x = 1
       y = 4 
       z = x + y
-      z.should eq 5
+      z.should eq 21
     end
   end
 end
